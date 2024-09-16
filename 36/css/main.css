@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+p {
+    text-align: left;
+    margin: 0px 150px 0px 0px;
+}
+
+.block {
+
+    box-shadow: inset 10px 10px 5px #211e477b;
+    border-radius: 30px;
+    background: #7a77198d;
+    width: 400PX;
+    height: 200PX;
+    padding: 0px 0px 0px 30px;
+    display: inline-block;
+    margin: 10px 10px 10px 10px;
+}
+
+.block-1 {
+    width: 1500px;
+    height: 400px;
+    overflow: auto;
+    background: #d7d0d0;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+h1 {
+    width: 10px;
+    margin: 10px 10px 0px 10px;
+    padding: 30px 0px 30px 0px; 
+}

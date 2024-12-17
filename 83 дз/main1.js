@@ -1,4 +1,3 @@
-// Создаем объект с методом
 const myObject = {
     name: "Дмитрий",
     age: 21,
@@ -7,5 +6,4 @@ const myObject = {
     },
 };
 
-// Вызываем метод объекта
 console.log(myObject.greet("Алексей"));

@@ -1,9 +1,7 @@
 const myObject = {
-    name: "Дмитрий",
-    age: 21,
-    greet: function (name) {
-        return `Hello, ${name}`;
-    },
+  greet: function(name) {
+    return `Hello "${name}"`;
+  }
 };
 
-console.log(myObject.greet("Алексей"));
+console.log(myObject.greet("Дмитрий"));   

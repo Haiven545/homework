@@ -6,4 +6,4 @@ const myObject = {
     },
 };
 
-console.log(myObject);
+console.log(myObject.greet("Алексей"));
